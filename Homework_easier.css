@@ -1,0 +1,52 @@
+/**
+ * homework_easy
+ **/
+
+
+body {
+background-color: #777;
+font-family: arial, helvetica, sans-serif;
+width: 960px;
+font-size: 18px;
+margin-left: auto;
+margin-right: auto;
+}
+
+header {
+  padding: 30px;
+  margin-top: 1%;
+  color: #333;
+  background: #ebebeb;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+nav {
+  background: #ebebeb;
+  text-align: center;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+section {
+  text-align: center;
+  background: #ebebeb;
+  width: 60%;
+  height: 150px;
+}
+
+aside {
+  width:35%;
+  float: right; 
+  
+}
+
+footer {
+  padding: 40px;
+  margin-top: 1%;
+  color: #333;
+  background: #ebebeb;
+  margin-bottom: 10px;
+  text-align: center;
+
+}
